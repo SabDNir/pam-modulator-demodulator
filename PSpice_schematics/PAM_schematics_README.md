@@ -10,9 +10,9 @@ These files are the design-source schematics for the EEE 310 variable-sampling P
 
 ## Why some schematic op-amps appear as UA741
 
-The installed PSpice component library did not include the intended TL08x-family op-amp model. The team worked around this by associating an externally obtained Texas Instruments TL08x-series SPICE model with an available part/symbol. As a result, **an op-amp symbol labelled `UA741` does not necessarily mean that the standard UA741 model was used**.
+The installed PSpice component library did not include the intended TL08x-family op-amp model. Team member Nirjhar worked around this by associating an externally obtained Texas Instruments TL08x-series SPICE model with an available part/symbol. As a result, **an op-amp symbol labelled `UA741` does not necessarily mean that the standard UA741 model was used**.
 
-The final project report (Section 4.4.1) specifies a **TL082** model. A September 1 team troubleshooting message says, *“for those who have TL081: replace all the opamp with that”*. Those statements describe related but distinct TL08x device models. The exact model attachment in the archived `.sch` files must be checked before reproducing or making a definitive per-component claim. The physical build used TL072-family op-amps.
+The final project report (Section 4.4.1) specifies a **TL082** model. A September 1 Team member Nirjhar troubleshooting message says, *“for those who have TL081: replace all the opamp with that”*. Those statements describe related but distinct TL08x device models. The exact model attachment in the archived `.sch` files must be checked before reproducing or making a definitive per-component claim. The physical build used TL072-family op-amps.
 
 ### If you want to rerun the simulation
 
