@@ -4,7 +4,7 @@
 
 A breadboard-built, fully analog **natural pulse-amplitude modulation (PAM) and reconstruction** demonstrator. A continuously adjustable sampling clock makes it possible to observe successful reconstruction and undersampling/aliasing on an oscilloscope, using general-purpose analog components rather than a microcontroller or dedicated modulation IC.
 
-**[Full technical report](EEE_310_PAM_Report.pdf)** · **[Hardware demonstration video](https://youtu.be/24NqAk7yRQg)** · **[Photo/video archive](https://drive.google.com/drive/folders/1anGlzHvJdv0IVSDBMLSQ6cWmXrI9w5OE?usp=sharing)**
+**[Full technical report](EEE_310_PAM_Report.pdf)** · **[Photo/video archive](https://drive.google.com/drive/folders/1anGlzHvJdv0IVSDBMLSQ6cWmXrI9w5OE?usp=sharing)**
 
 ## System architecture
 
